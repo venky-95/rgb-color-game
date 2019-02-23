@@ -1,0 +1,32 @@
+body{
+	/*background-color: #232323;*/
+}
+.square{
+	padding-bottom: 30%;
+	width: 30%;
+	margin:1.66%;
+	float: left;
+	background: purple;
+}
+#container{
+	margin: 0 auto;
+	width: 600px;
+}
+h1{
+	color: white;
+	background: #232323;
+}
+.jumbotron{
+	background: #232323!important;
+}
+.stripe{
+	background-color: white;
+	text-align: center;
+}
+.selected{
+	background-color: blue;
+}
+.square{
+	border-radius: 15px;
+	
+}
